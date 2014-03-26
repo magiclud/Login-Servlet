@@ -4,6 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<<<<<<< HEAD
 <title>Insert title here</title>
 </head>
 <body>
@@ -11,5 +12,16 @@
 <p>Enter User Name: <input type="text" name="username"><br>
 Enter Password: <input name="password" type="password"><br>
 <input type="submit">
+=======
+<title>Login</title>
+</head>
+<body>
+<form name="loginform" action="login" method="post">
+<p>Enter User Name: <input type="text" name="username"><br>
+Enter Password: <input name="password" type="password"><br>
+<input type="submit">
+
+</form>
+>>>>>>> 3776d418d3b61dc4546d8526fd67acbabd56ab9f
 </body>
 </html>
